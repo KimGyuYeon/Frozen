@@ -85,8 +85,9 @@ header h1 {
 
 /* section */
 #preview {
-  background-image: url(./imges/preview.jpg);
+  background-image: url(./images/preview.jpg);
 }
+
 
 .section-bg {
     width: 100%;
@@ -102,19 +103,19 @@ header h1 {
 
   
 #w1 {
-    background-image: url(./imges/bg-w1.png);
+    background-image: url(./images/bg-w1.png);
   }
 
 #wf {
-    background-image: url(./imges/bg-wf.png);
+    background-image: url(./images/bg-wf.png);
   }
 
 #wa {
-    background-image: url(./imges/bg-wa.png);
+    background-image: url(./images/bg-wa.png);
   }
 
 #w2 {
-    background-image: url(./imges/bg-w2.png);
+    background-image: url(./images/bg-w2.png);
   }
   
   /* footer */
